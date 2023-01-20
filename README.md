@@ -14,7 +14,6 @@ The competition is simple: use machine learning to create a model that predicts 
 <br /><br />
 
 ## Installation:
-------
 This project is packaged and running on virtual environments managed by [Pipenv](https://github.com/pypa/pipenv)
 
 Install the pipenv package by running:
@@ -64,6 +63,7 @@ Now numpy will show up on both "```pipenv graph```" and "```pip list```" only fo
 Running pip list while still in the virtual environment shows all pip packages installed globally on the machine, plus any packages installed using
 "```pipenv install ...```":
 <br />
+<br />
 ![Pip List Virtual Environment](images/pip-list-venv.png)
 <br />
 <br />
@@ -94,13 +94,11 @@ Now you should be able to run the file (F5) in VS Code using the new virtual env
 <br /><br />
 
 ## How to use project:
-------
 
 
 <br /><br />
 
 ## How to update project (dev/contributions):
-------
 
 If you would like to add in more python pip packages, you may use "```pipenv install "package_name"```"<br />
 for example: "```pipenv install numpy```" will install Numpy onto the virtual environment.
