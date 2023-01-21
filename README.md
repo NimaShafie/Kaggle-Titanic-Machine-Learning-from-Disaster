@@ -4,8 +4,6 @@ shields.io need to go here <br />
 This is the legendary [Titanic ML competition](https://www.kaggle.com/competitions/titanic/overview) – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.<br />
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-
-
 <br /><br />
 ## Table of Contents
 ...
@@ -14,7 +12,8 @@ The competition is simple: use machine learning to create a model that predicts 
 <br /><br />
 
 ## Installation:
-This project is packaged and running on virtual environments managed by [Pipenv](https://github.com/pypa/pipenv)
+This project is packaged and running on virtual environments managed by [Pipenv](https://github.com/pypa/pipenv)<br />
+The following instructions were written by me below, I have used this configuration succesfully on Windows and Linux (Ubuntu) working with the VS Code IDE.
 
 Install the pipenv package by running:
 ```
@@ -94,7 +93,7 @@ Now you should be able to run the file (F5) in VS Code using the new virtual env
 <br /><br />
 
 ## How to use project:
-
+This project will come pre-loaded with all the supplied data files from the Kaggle competiton, my Machine Learning submission will contain the supervised model that I used to complete the challenge.
 
 <br /><br />
 
