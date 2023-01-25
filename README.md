@@ -79,6 +79,8 @@ Running pip list while we exit the virtual environment shows pipenv on the list 
 Now, we must ensure the file we be run on the correct interperter that contains the virtual environment.
 This example will be shown in VS Code, we want to ensure we choose the correct venv interperter:
 
+Open or create a file with a .py extension (Python)
+
 Change the interpreter by selecting this button at the bottom of VS Code:
 ![Pip List Virtual Enviornment](images/select-interpreter.png)
 <br />
